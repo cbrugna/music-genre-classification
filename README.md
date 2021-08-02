@@ -40,7 +40,7 @@ Dropout randomly drops nuerons during training and incresed network robustness b
 Here is the plot after implenting data augmentation, droput, and early stopping. 
 
 
-![Overfitting-Fixed](/plot2)
+![Overfitting-Fixed](/plot3)
 
 The accuracy/error between the train and test sets is much less now!
 
